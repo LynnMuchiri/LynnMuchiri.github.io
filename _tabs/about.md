@@ -2,7 +2,11 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+layout: page
+title: About
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Hello, I am Lynn Muchiri
+I am a **Cybersecurity Analyst** Student with focus on building resilient systems and ethical hacking.
+### Technical Focus
+**Offensive Security:** HTB Writeups, Vulnerability research
