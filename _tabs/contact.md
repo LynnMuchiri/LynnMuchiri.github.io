@@ -6,7 +6,7 @@ order: 6
 
 # 📞 Contact Me
 
-- 📧 Email: lynnmuchiri@gmail.com  
+- 📧 Email: lynmuchiri@gmail.com  
 - 💼 [LinkedIn]: (https://www.linkedin.com/in/lynnmuchiri)
 - 💻 [Github]: https://github.com/LynnMuchiri
 

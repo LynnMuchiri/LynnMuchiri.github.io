@@ -51,6 +51,6 @@ order: 2
 ---
 
 # 📜 Certifications
-- Mobile and Web Development
+- Mobile and Web Application Development 
 - Cybersecurity 
 - Advent of Cyber [Link](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNFPHJUQRI.pdf)
