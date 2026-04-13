@@ -8,7 +8,7 @@ order: 6
 
 - 📧 Email: lynmuchiri@gmail.com  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/lynnmuchiri)
-- 💻 Github: [Github]https://github.com/LynnMuchiri
+- 💻 Github: [Github](https://github.com/LynnMuchiri)
 
 ---
 
