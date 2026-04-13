@@ -16,7 +16,7 @@ timezone:
 
 title: Lynn Muchiri # the main title
 
-avatar: assets/img/me.jpeg
+avatar: /assets/img/me.jpeg
 
 tagline: A Cybersecurity Analyst # it will display as the subtitle
 
