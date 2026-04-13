@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Contact
 icon: fas fa-envelope
 order: 6
 ---
@@ -8,7 +7,7 @@ order: 6
 # 📞 Contact Me
 
 - 📧 Email: lynnmuchiri@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/lynnmuchiri  
+- 💼 LinkedIn: (https://www.linkedin.com/in/lynnmuchiri)
 - 💻 GitHub: https://github.com/LynnMuchiri
 
 ---
