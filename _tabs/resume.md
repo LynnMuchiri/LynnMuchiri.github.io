@@ -1,20 +1,19 @@
 ---
 layout: page
-title: Resume
 icon: fas fa-file
 order: 2
 ---
 
 # 📄 Resume
 
-## 🎓 Education
+### 🎓 Education
 - Bachelor of Science in Informatics and Computer Science – Strathmore University  
 - Web development and Design, Android Mobile Application Development and CyberSecurity - Zalego Institute of Technology
 - Cybersecurity Analyst – Cyber Shujaa  
 
 ---
 
-## 💼 Work Experience
+### 💼 Work Experience
 
 ### IT System Specialist – Kenpoly  
 - System administration and IT support  
@@ -34,7 +33,7 @@ order: 2
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 - Cybersecurity
 - Network Configuration  
@@ -51,7 +50,7 @@ order: 2
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 - Mobile and Web Development
 - Cybersecurity 
 - Advent of Cyber [Link](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNFPHJUQRI.pdf)
