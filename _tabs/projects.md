@@ -4,8 +4,6 @@ icon: fas fa-archive
 order: 3
 ---
 
-# Projects 
-
 ## 1. Kenyan Sign Language Translation App
 - Built using CNN and Computer Vision
 - Converts sign language to text
