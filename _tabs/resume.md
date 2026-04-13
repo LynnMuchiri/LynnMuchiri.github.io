@@ -4,8 +4,6 @@ icon: fas fa-file
 order: 2
 ---
 
-# 📄 Resume
-
 # 🎓 Education
 - Bachelor of Science in Informatics and Computer Science – Strathmore University  
 - Web development and Design, Android Mobile Application Development and CyberSecurity - Zalego Institute of Technology
