@@ -14,20 +14,24 @@ order: 2
 # 💼 Work Experience
 
 ### IT System Specialist – Kenpoly  
-- System administration and IT support  
-- Network troubleshooting and maintenance  
+- Network Administration
+- Firewall administration and cybersecurity
+- Backup and distaster recovery management
+- User training and IT Awareness
+- End User Support  
 
 ### Information Technology Officer – Agriculture and Food Authority  
 - IT infrastructure support  
 - User support and system maintenance  
-- Computer Hardwarew Troubleshooting 
+- Computer Hardware Troubleshooting 
 - Enterprise Resource Planning (ERP)
 
 ### Networking & System Support Intern – Flamingo Horticulture  
 - IT Infrastructure Management
--  Network Administration
+- Network administration
 - System Administration
 - User Support
+- Biometric clocks setup and administration
 
 ---
 
