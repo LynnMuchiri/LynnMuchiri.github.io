@@ -49,6 +49,9 @@ order: 2
 ---
 
 # 📜 Certifications
-- Mobile and Web Application Development 
-- Cybersecurity 
-- Advent of Cyber [Link](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNFPHJUQRI.pdf)
+- [Security Analyst](https://drive.google.com/file/d/1xVkNbx_T_W-Uo43GSmdWhL-FSF4kh5SD/view?usp=drive_link)
+- [Mobile and Web Application Development](https://drive.google.com/file/d/1sG0ZNuxl4haNc0wOeAdBThWMpkr2KvDn/view?usp=sharing)
+- [Cybersecurity](https://drive.google.com/file/d/1FncBZoNz4E9BNW3OmaSXF3-pccq6Waw2/view?usp=sharing)
+- [Advent of Cyber](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNFPHJUQRI.pdf)
+
+Here is the link to my [CV](https://drive.google.com/file/d/1C0EXhF9Yom_j9XAwniIbzftkOaknxEAw/view?usp=sharing)
