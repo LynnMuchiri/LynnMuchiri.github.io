@@ -13,14 +13,14 @@ order: 2
 
 # 💼 Work Experience
 
-### IT System Specialist – Kenpoly  
+### IT Administrator Intern – Kenpoly  
 - Network Administration
 - Firewall administration and cybersecurity
 - Backup and distaster recovery management
 - User training and IT Awareness
 - End User Support  
 
-### Information Technology Officer – Agriculture and Food Authority  
+### Information Technology Officer Intern – Agriculture and Food Authority  
 - IT infrastructure support  
 - User support and system maintenance  
 - Computer Hardware Troubleshooting 
