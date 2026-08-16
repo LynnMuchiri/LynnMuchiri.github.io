@@ -4,7 +4,7 @@ icon: fas fa-file-pdf
 order: 6
 ---
 
-<div style="margin-bottom: 20px;>
+<div style="margin-bottom: 20px;">
     <a href="../assets/pdf/Lynn-Muchiri-CV.pdf" target="_blank" class="btn btn-primary">
         <i class="fas fa-download"></i>Download
     </a>
