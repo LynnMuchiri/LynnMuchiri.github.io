@@ -4,7 +4,7 @@
 icon: fas fa-certificate
 order: 4
 layout: page
-title: Education and Certifications
+title: Education & Certifications
 
 ---
 
@@ -21,6 +21,4 @@ title: Education and Certifications
 **Security Analyst** — Cyber Shujaa  
 *Completed*
 
-<a href="/assets/pdf/SAnalyst.pdf" target="_blank">
-  <img src="/assets/pdf/SAnalyst.pdf" alt="Cyber Shujaa Security Analyst Certificate" width="250">
-</a>
+<img src="/assets/pdf/SAnalyst.pdf" alt="Certificate" width="250">
