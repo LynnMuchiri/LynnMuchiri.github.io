@@ -1,41 +1,10 @@
 ---
 ---
 
-@use "main{% if jekyll.environment == 'production' %}.bundle{%endif %}";
-/* append your custom style below */
-
-iframe {
-  border: 1px solid white;
-}
-html {
-  scroll-behavior: smooth;
-}
-html::-webkit-scrollbar,
-body::-webkit-scrollbar {
-  display: none;
-  /* Chrome, Safari, Opera */
-}
-
-#avatar,
-img.avatar {
-  width: 110px;
-  height: 110px;
-
+#avatar {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   object-position: center;
-
   border-radius: 50%;
-  border: 3px solid rgba(255, 255, 255, 0.15);
-
-  display: block;
-  margin: 0 auto;
-
-  transition:
-    transform 0.25s ease,
-    box-shadow 0.25s ease;
-}
-
-#avatar:hover,
-img.avatar:hover {
-  transform: scale(1.04);
 }
