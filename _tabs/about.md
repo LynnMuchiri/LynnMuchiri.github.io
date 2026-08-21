@@ -8,7 +8,7 @@ title: About
 
 ### Hello, I am Lynn Muchiri
 
-I am a tech enthusiast and problem solver with a background in Informatics and Computer Science and a growing focus on cybersecurity. I enjoy understanding how systems work, identifying vulnerabilities, and investigating security issues through hands-on labs and practical projects. I’m building toward a career in cybersecurity, particularly in offensive security, security analysis, and incident response. I bring a curious mindset, a willingness to learn, and practical experience with tools such as Wireshark, Nmap, Burp Suite, and Kali Linux.
+I am an Informatics and Computer Science graduate and tech enthusiast with a growing focus on cybersecurity. My interest in security comes from wanting to understand how systems are attacked, how vulnerabilities can be identified, and how those weaknesses can be addressed. I learn best through hands-on work, from security labs on Hack The Box and TryHackMe to analyzing network traffic and investigating security incidents. I’m building toward a career in cybersecurity where I can apply my problem-solving mindset, technical skills, and curiosity while continuing to learn and grow.
 
 
 
