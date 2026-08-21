@@ -6,19 +6,9 @@ layout: page
 title: About
 ---
 
-# Hello, I am Lynn Muchiri
-I am a tech enthusiast and problem solver passionate about building secure, efficient and user focused systems. With experience in cybersecurity, system administration, and IT support, I enjoy identifying vunerabilities and improving digital security.
+### Hello, I am Lynn Muchiri
 
-### Technical Focus
-- **Offensive Security:** HTB Writeups, Vulnerability research
-- **Systems:** Windows & Linux Administration
-- **AI and Data:** Using AI and Data to solve challenges
-- **Networking:** Network Monistoring & Security
-- **Tools:** Wireshark, Nmap, Burp Suite, Kali Linux
+I am a tech enthusiast and problem solver with a background in Informatics and Computer Science and a growing focus on cybersecurity. I enjoy understanding how systems work, identifying vulnerabilities, and investigating security issues through hands-on labs and practical projects. I’m building toward a career in cybersecurity, particularly in offensive security, security analysis, and incident response. I bring a curious mindset, a willingness to learn, and practical experience with tools such as Wireshark, Nmap, Burp Suite, and Kali Linux.
 
-### Current Focus
-- Cybersecurity Labs(HTB, TryHackMe) 
-- Continuous learning in offensive and defensive security
-- Ethical hacking
 
 
