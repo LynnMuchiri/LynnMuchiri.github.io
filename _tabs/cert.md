@@ -21,6 +21,6 @@ title: Education and Certifications
 **Security Analyst** — Cyber Shujaa  
 *Completed*
 
-<a href="/assets/pdf/SAnalyst.png" target="_blank">
-  <img src="/assets/pdf/SAnalyst.png" alt="Cyber Shujaa Security Analyst Certificate" width="250">
+<a href="/assets/pdf/SAnalyst.pdf" target="_blank">
+  <img src="/assets/pdf/SAnalyst.pdf" alt="Cyber Shujaa Security Analyst Certificate" width="250">
 </a>
