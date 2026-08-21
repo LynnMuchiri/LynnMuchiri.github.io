@@ -10,7 +10,7 @@ title: Education & Certifications
 
 ## Education
 
-**Degree:** Bachelor of Informatics and Computer Science
+**Degree:** Bachelor of Science in Informatics and Computer Science
 
 **Institution:** Strathmore University
 
@@ -21,4 +21,6 @@ title: Education & Certifications
 **Security Analyst** — Cyber Shujaa  
 *Completed*
 
-<img src="/assets/pdf/SAnalyst.pdf" alt="Certificate" width="250">
+<a href="/assets/pdf/SAnalyst.pdf" target="_blank">
+  View Security Analyst Certificate
+</a>
